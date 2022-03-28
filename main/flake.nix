@@ -11,7 +11,6 @@
   inputs.src-nodejs-main.ref   = "refs/heads/main";
   inputs.src-nodejs-main.owner = "juancarlospaco";
   inputs.src-nodejs-main.repo  = "nodestdlib";
-  inputs.src-nodejs-main.dir   = "";
   inputs.src-nodejs-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
