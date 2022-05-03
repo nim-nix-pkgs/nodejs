@@ -23,8 +23,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {
@@ -42,11 +42,11 @@
     "src-nodejs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650648397,
-        "narHash": "sha256-mmlbMizQg6XxZBlG+Iklvu0uVwiVUULs6iXI54nbjM8=",
+        "lastModified": 1650936666,
+        "narHash": "sha256-SXDQDdjSdq0hIKsjZMDAVbaFboouM8R3O4YhWV5blvE=",
         "owner": "juancarlospaco",
         "repo": "nodestdlib",
-        "rev": "59df692726435082d2bc1fcc179baaff8326b54e",
+        "rev": "f53bcce7aae4e2cf55c0468f50292f2e452fd701",
         "type": "github"
       },
       "original": {
