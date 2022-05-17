@@ -42,11 +42,11 @@
     "src-nodejs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650936666,
-        "narHash": "sha256-SXDQDdjSdq0hIKsjZMDAVbaFboouM8R3O4YhWV5blvE=",
+        "lastModified": 1652600009,
+        "narHash": "sha256-tKEUpSwVAkiMKfk5SHaRVG+JFVxuaZBgecqTHJsisGc=",
         "owner": "juancarlospaco",
         "repo": "nodestdlib",
-        "rev": "f53bcce7aae4e2cf55c0468f50292f2e452fd701",
+        "rev": "8cc0925788f7ea16d92edb5d5a7d555d1fd58e56",
         "type": "github"
       },
       "original": {
