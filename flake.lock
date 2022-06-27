@@ -23,8 +23,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -44,11 +45,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653696613,
-        "narHash": "sha256-F6PGuIcpouDLwjYRK80kY9EXDzGduoRut4GK0gObC/4=",
+        "lastModified": 1653702187,
+        "narHash": "sha256-IXJZfTqU7knrF6Cvd3eD5lAH8qCRNleoGGUA3doYyjA=",
         "owner": "nim-nix-pkgs",
         "repo": "nodejs",
-        "rev": "6a8f40a697f8e4004bdf1d9cf36b3eeffa3bf8a2",
+        "rev": "ad7ac49eabd1e347e0a4dfa4f559316dfb1a0357",
         "type": "github"
       },
       "original": {
