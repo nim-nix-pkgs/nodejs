@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1667334683,
-        "narHash": "sha256-b6sbS8lcICGxVUQYzpHL5Q11qpPeYnJGLzKVDCjEB7o=",
+        "lastModified": 1668748947,
+        "narHash": "sha256-AlbT210sqkAJFL/BhS9S7zuAlaN/0cg2BJGdm4fivDY=",
         "owner": "nim-nix-pkgs",
         "repo": "nodejs",
-        "rev": "273ca919a22f7319098187921b58b39a0ab9fc1d",
+        "rev": "d5cb272de2b00415e499a42321af39ab794182ce",
         "type": "github"
       },
       "original": {
@@ -237,11 +237,11 @@
     "src-nodejs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1666991543,
-        "narHash": "sha256-uafhU2q/+iIYYIUM87RX4BP4p+bhPZX898AZEydojVA=",
+        "lastModified": 1668698101,
+        "narHash": "sha256-vmwDRPCVdqYsCzUKCETSbWMeK/PWZkUgfMLPIwc6ds8=",
         "owner": "juancarlospaco",
         "repo": "nodestdlib",
-        "rev": "41816c22c5f7945af95757fdf695b378622198a4",
+        "rev": "abcd11bf40d667f90b6720503e146fa16f9cb8f8",
         "type": "github"
       },
       "original": {
